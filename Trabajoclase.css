@@ -1,0 +1,26 @@
+body{
+    background-color: grey
+}
+.tarjeta{
+    background-color: white;
+    border: 1px solid red;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5spx;
+    box-shadow: gray 1px 1px 1px;
+    float: left;
+    margin: 5px;
+    transition: all 500ms ease;
+}
+.tarjeta:hover{
+    transform: scale(1.2);
+    box-shadow: gray 10px 10px 10px;
+
+}
+    
+}
+.tarjeta p{
+    color: black;
+    text-align: center;
+
+}

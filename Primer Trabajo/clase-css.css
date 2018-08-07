@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+}
+
+p{
+   font-weight: bold;
+    background-color:whitesmoke;
+    border: 1px solid black;
+    transition: all 500ms ease;
+}
+p:nth-child(odd){
+    color:red;
+    text-align: center;
+}
+
+p:nth-child(even){
+    color:green;
+}
+/**
+asi se ponen comentarios
+*/
+div{
+    padding: 20px;
+    width: 50%;
+
+}
