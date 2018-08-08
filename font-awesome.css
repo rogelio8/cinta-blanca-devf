@@ -1,0 +1,46 @@
+body{
+    color: white;
+    font-family: 'PT Serif', serif;
+    background-color: lightgray;
+}
+nav{
+    background-color: blue;
+    padding-top: 30px;
+    border-bottom-width: 30px;
+    margin-bottom:-10px;
+    margin-top: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-bottom: 50px;
+    box-shadow: lightgray;
+
+}
+
+h1{
+    float: left;
+    margin: 0%;
+    padding-left: 20px;
+}
+.h2{
+    float: right;
+    margin: 0%;
+    padding-right: 20px;
+}
+.cuadro{
+    background-color: white;
+    color: black;
+    width: 70px;
+    height: 85px;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: black 1px 1px 1px;
+    float: left;
+    margin: 5px;
+    transition: all 500ms ease;    
+    text-align: center;
+}
+.cuadro:hover{
+    transform: scale(1.1);
+    box-shadow: gray 10px 10px 10px;
+}
+
