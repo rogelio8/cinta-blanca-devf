@@ -1,0 +1,91 @@
+body{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Oswald', sans-serif;
+}
+.azul{
+    background-color: #127db3;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sinpadding{
+    margin: 0%;
+}
+.sinpadding2{
+    margin-top: 0%;
+}
+.azul2{
+    background: #1245b3;
+    width: 33%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+
+}
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+    font-size: 10px;
+    color: white;
+    background-color: #0f3586;
+  }
+.blanco{
+    background-color: white;
+    color: black;
+  }
+.master{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.tarjeta{
+    width: 150px;
+    height: 300px;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+.cuadro{
+    background-color: #b5c7d1;
+    color: white;
+    width: 150px;
+    height: 85px;
+    border-radius: 6px;
+    margin: 5px;    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.textosub{
+    color: #0f3586;
+}
+.textosub2{
+    color: black;
+    text-align: center;
+
+}
