@@ -1,0 +1,56 @@
+body{
+    margin:none;
+    background-color: lightgrey;
+}
+input,button{
+
+    padding: 5px;
+}
+input{
+    background-color: lightgray;
+}
+
+.tarjeta{
+    background-color: aliceblue;
+    border-radius: 5px;
+    float: left;
+    padding: 10px;
+    width: auto;
+    margin: 5px;
+    box-shadow: 1px 1px 1px gray;
+}
+.red{
+    background-color: rgba(255, 0, 0, 0.671);
+    color:rgb(255, 113, 113);
+    border: 1px red;
+}
+
+.azul{
+    background-color: rgba(44, 44, 247, 0.753);
+    color:rgb(108, 108, 245);
+    border: 1px blue;
+}
+
+.orange{
+    border: 1px orangered;
+    background-color: orange;
+    color: rgb(236, 197, 125);
+}
+
+.purple{
+    border: 1px purple;
+    background-color: blueviolet;
+    color: rgb(171, 126, 214);
+}
+
+.green{
+    border:  1px  rgba(0, 128, 0, 0.719);
+    background-color: green;
+    color: rgb(128, 197, 128);
+}
+
+.yellow{
+    border: 1px rgba(223, 175, 17, 0.856);
+    background-color: yellow;
+    color: rgb(236, 236, 164);
+}
